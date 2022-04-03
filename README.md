@@ -1,7 +1,5 @@
 
-<h1 align="center">
- <img src="https://drive.google.com/file/d/1OHPfAesqwMplnaQfC1joE2yhEjU5G0g_/view?usp=sharing" />
-</h1>
+
 <h1 align="center">Hola 👋, This is Meaha 😊 </h1>
 <h3 align="center">A passionate programmer from India 😃</h3>
 
