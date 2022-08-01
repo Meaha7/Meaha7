@@ -58,5 +58,5 @@
 <br/>
 
 ## Watch My Contributions Eaten By A Snake 😉
-<h3 align="center"> <img  src="https://github.com/Meaha7/Meaha7/blob/output/github-contribution-grid-snake.gif"</h3>
+<h3 align="center"> <img  src="https://github.com/Meaha7/Meaha7/blob/output/github-contribution-grid-snake.svg"</h3>
 
