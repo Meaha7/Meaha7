@@ -61,6 +61,6 @@
 
 <br/>
 
-
-<h3 align="center">Watch my contributions get eaten by a snake 😉 <br> <img  src="https://github.com/Meaha7/Meaha7/blob/output/github-contribution-grid-snake.gif"</h3>
+## Watch My Contributions Eaten By A Snake 😉
+<h3 align="center"> <img  src="https://github.com/Meaha7/Meaha7/blob/output/github-contribution-grid-snake.gif"</h3>
 
