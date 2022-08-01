@@ -29,7 +29,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=meaha7&show_icons=true&locale=en" alt="meaha7" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=meaha7&" alt="meaha7" /></p>
+## 🔥 Streak Stats
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Meaha7&theme=algolia" alt="Meaha7" /></p>
 
 <h3 align="center">Watch my contributions get eaten by a snake 😉 <img  src="https://github.com/Meaha7/Meaha7/blob/output/github-contribution-grid-snake.gif"</h3>
 
