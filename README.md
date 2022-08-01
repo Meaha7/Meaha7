@@ -24,5 +24,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=meaha7&" alt="meaha7" /></p>
 
-<h3 align="left">Watch my contributions get eaten by a snake 😉</h3>
-![snake gif](https://github.com/Meaha7/Meaha7/blob/output/github-contribution-grid-snake.gif)
+<h3 align="center">Watch my contributions get eaten by a snake 😉 <img  src="https://github.com/Meaha7/Meaha7/blob/output/github-contribution-grid-snake.gif"</h3>
+
